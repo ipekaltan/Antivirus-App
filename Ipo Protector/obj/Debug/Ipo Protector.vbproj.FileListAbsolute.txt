@@ -1,0 +1,23 @@
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\bin\Debug\Ipo Protector.exe.config
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\bin\Debug\Ipo Protector.exe
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\bin\Debug\Ipo Protector.pdb
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\bin\Debug\Ipo Protector.xml
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo Protector.vbproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo_Protector.Resources.resources
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo Protector.vbproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo Protector.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo Protector.exe
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo Protector.xml
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo Protector.pdb
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo_Protector.Form1.resources
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo_Protector.ctlDashboard.resources
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo_Protector.frmClose.resources
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo_Protector.ctlScan.resources
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo_Protector.ctlPrivacy.resources
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo_Protector.ctlSystemPerformance.resources
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo_Protector.ctlAccount.resources
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo_Protector.frmSettings.resources
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo_Protector.ctlPremium.resources
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo_Protector.ctlSubscription.resources
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo_Protector.frmSerialKey.resources
+C:\Users\lenovo\Desktop\Ipo Protector Project\Ipo Protector\obj\Debug\Ipo_Protector.frmScan.resources
